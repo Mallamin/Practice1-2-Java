@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                
+    
+    
+    <wb-module deploy-name="Practice1N2-A Hello world Program&amp; Using variables">
+                                
+        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                                
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                                
+        
+        
+        <property name="java-output-path" value="/Practice1N2-A Hello world Program&amp; Using variables/build/classes"/>
+        <property name="context-root" value="Practice1N2-A Hello world Program&amp; Using variables"/>
+                            
+    
+    
+    </wb-module>
+            
+
+
+</project-modules>
